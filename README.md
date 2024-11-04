@@ -76,6 +76,6 @@ This will start the the script locally, allowing you to get the results of the c
 
 ## License
 
-This project is licensed under the [MIT License](./LICENSE). Feel free to use, modify, and distribute as per the terms of the license.
+This project is licensed under the [MIT License](https://github.com/chilleno/fintual?tab=MIT-1-ov-file). Feel free to use, modify, and distribute as per the terms of the license.
 
 ---

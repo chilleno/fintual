@@ -48,14 +48,14 @@ change lines 4 and 5 of fintual.js file to add Stocks as needed like the next ex
 
 ```sh
 //portfolio.addStock("stock-name", amout);
-portfolio.addStock("AAPL", 10);
+4- portfolio.addStock("AAPL", 10);
 ```
 
 change the date range in the line 7
 
 ```sh
-//await portfolio.profit(new Date("date from"), new Date("date from to")) 
-await portfolio.profit(new Date("2023-01-01 00:00:00"), new Date("2023-12-29 00:00:00")) 
+// await portfolio.profit(new Date("date from"), new Date("date from to")) 
+7 - await portfolio.profit(new Date("2023-01-01 00:00:00"), new Date("2023-12-29 00:00:00")) 
 ```
 NOTE1: date need the time for better results
 NOTE2: the code uses Yahoo stocks api that takes the near date of the given date, this can give differences in the results please check the showed values

@@ -67,10 +67,10 @@ NOTE2: the code uses Yahoo stocks api that takes the near date of the given date
 Once all dependencies are installed and the Prisma client is generated, you can start the bot in development mode using the following command:
 
 ```sh
-pnpm dev
+node fintual.js
 ```
 
-This will start the bot locally, allowing you to test its functionality.
+This will start the the script locally, allowing you to get the results of the created portfolio.
 
 ---
 
